@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PailiRajani
-- 👀 I’m interested in VLSI Dsigning.
+- 👀 I’m interested in VLSI Designing.
 - 🌱 I’m currently learning RTL Designing Course at Kalki Tech.
 - 💞️ I’m Eager to advance in the semiconductor industry
 - 📫 How to reach me -pailirajani2002@gmail.com
